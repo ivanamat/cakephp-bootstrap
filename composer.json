@@ -1,0 +1,24 @@
+{
+    "name": "ivanamat/cakephp-bootstrap",
+    "description": "Bootstrap, the world’s most popular front-end open source toolkit",
+    "keywords": ["cakephp", "cakephp", "plugin", "theme", "bootstrap", "4.x"],
+    "homepage": "https://github.com/ivanamat/cakephp-bootstrap",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Amat",
+            "homepage": "http://www.ivanamat.es",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "cakephp/cakephp": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bootstrap\\": "src"
+        }
+    }
+}

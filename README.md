@@ -14,3 +14,12 @@ composer require ivanamat/cakephp-bootstrap
 Bootstrap 4.x theme for CakePHP.
 
 Visit [https://getbootstrap.com/](https://getbootstrap.com/)
+
+## About the author
+
+Iván Amat  
+
+on [GitHub](https://github.com/ivanamat)  
+on [Telegram](https://telegram.me/ivanamat)  
+
+[www.ivanamat.es](http://www.ivanamat.es/)  
